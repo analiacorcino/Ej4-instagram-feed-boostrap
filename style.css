@@ -1,0 +1,54 @@
+.tab-content 
+
+{
+  justify-content: center;
+}
+
+.nav
+{
+  justify-content: center;
+}
+
+
+.container .text-center
+{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.card {
+    margin-top: 30px;
+    
+}
+
+
+.superior {
+    display: flex;
+    padding-bottom: 0px;
+}
+
+.derecha {
+   padding-left: 40%;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(78, 78, 78);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(78, 78, 78);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(78, 78, 78);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(78, 78, 78);
+  }
